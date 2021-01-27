@@ -1,8 +1,10 @@
-#0x00-vagrant
-0x00-vagrant Project is a basic Linux and Github related tasks.
+# 0x02-vi
+  
+0x002-vagrant Project is a vim related tasks.
 
 
-###Precondition
+### Precondition 
 
--Install ubuntu 14 
--Create [Github](https://github.com)
+- Install Ubuntu14
+- Create [Github](https://github.com/)
+
